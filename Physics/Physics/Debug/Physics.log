@@ -1,0 +1,10 @@
+﻿  Physics.cpp
+C:\Users\herre\source\repos\Physics\Physics.cpp(14,10): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\herre\source\repos\Physics\Physics.cpp(60,14): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\herre\source\repos\Physics\Physics.cpp(64,13): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\herre\source\repos\Physics\Physics.cpp(69,13): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\herre\source\repos\Physics\Physics.cpp(74,12): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\herre\source\repos\Physics\Physics.cpp(81,15): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\herre\source\repos\Physics\Physics.cpp(86,15): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\herre\source\repos\Physics\Physics.cpp(91,32): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  Physics.vcxproj -> C:\Users\herre\source\repos\Physics\Debug\Physics.exe
